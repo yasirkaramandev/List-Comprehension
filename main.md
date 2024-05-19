@@ -1,24 +1,4 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.11.4
-  nbformat: 4
-  nbformat_minor: 2
----
 
-::: {.cell .markdown}
 # List Comprehension
 
 Bu blogta List Comprehension kullanımı ve amaçları hakkında bilgi
@@ -26,7 +6,7 @@ vereceğim.
 
 **İçindekiler**:
 
--   [List Comprehension Nedir?](#List-Comprehension-Nedir?)
+-   [List Comprehension Nedir?](#list-comprehension-nedir?)
     -   [Syntax Kuralları](#syntax-kurallari)
     -   [İleri Seviye Kullanım](#Ileri-seviye-kullanim)
         -   [Performans Avantajları](#performans-avantajlari)
